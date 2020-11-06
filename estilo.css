@@ -1,0 +1,35 @@
+* {
+    font-size: 22px;    / * Tamaño de la página */
+}
+body {
+    background-color: grey;     / * modificación del cuerpo */
+    font-size: medium;
+}
+.destacado {
+    color: rgb(47, 255, 245);
+}
+h1 {
+    color: red;     / * modificación de los titulos en h1 */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h2 {
+    color: brown;       / * modificación de los titulos en h2 */
+}
+p {
+    color: goldenrod;      / * cambio de color de los parrafos */
+}
+li {
+    color: blue;        / * cambio de color de las listas */
+}
+td {
+    color: pink;        / * cambio de color de la información dentro de las tablas */
+}
+table {
+    color: grey;        / * cambio de color de la tabla */
+}
+li a {
+    color: red;         / * cambio de color de los enlaces */
+}
