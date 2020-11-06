@@ -1,35 +1,35 @@
 * {
-    font-size: 22px;    / * Tamaño de la página */
+    font-size: 22px;
 }
 body {
-    background-color: grey;     / * modificación del cuerpo */
+    background-color: grey;
     font-size: medium;
 }
 .destacado {
     color: rgb(47, 255, 245);
 }
 h1 {
-    color: red;     / * modificación de los titulos en h1 */
+    color: red;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 10px;
     padding-right: 10px;
 }
 h2 {
-    color: brown;       / * modificación de los titulos en h2 */
+    color: brown;
 }
 p {
-    color: goldenrod;      / * cambio de color de los parrafos */
+    color: goldenrod;
 }
 li {
-    color: blue;        / * cambio de color de las listas */
+    color: blue;
 }
 td {
-    color: pink;        / * cambio de color de la información dentro de las tablas */
+    color: pink;
 }
 table {
-    color: grey;        / * cambio de color de la tabla */
+    color: grey;
 }
 li a {
-    color: red;         / * cambio de color de los enlaces */
+    color: red;
 }
